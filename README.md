@@ -1,4 +1,4 @@
-## A Full System Simulator for Cache and System Study
+## A Full System Simulator for Advanced Computer Architecture Research
 This simulator is developed by DISCO Lab and has been used in our ECEC-623 Advanced Computer Architecture course. The simulator is intended for the following research:
 + Memory Controller Design
 + Cache Management Policy
